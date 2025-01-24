@@ -53,9 +53,9 @@ int main()
             }
             break;
             default: 
-                "You entered a value not supported try again.";
-            
+                std::cout << "You entered a value is not supported. Try again!";
     }
+    
     return 0;
 }
 
